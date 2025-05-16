@@ -14,10 +14,9 @@ With increasing cybersecurity threats, monitoring and analyzing network traffic 
 
 Detecting-cyber-threats/
 ├── data/ # Raw and cleaned datasets
-├── notebooks/ # Colab notebook for analysis
-│ └── main.ipynb
+├── / # Colab notebook for analysis
+├── main.ipynb
 ├── report/ # Phase 3 report and documentation
-├── images/ # Graphs, charts, and flowcharts
 └── README.md # Project summary
 
 yaml
