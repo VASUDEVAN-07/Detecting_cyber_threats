@@ -72,7 +72,8 @@ Detecting-cyber-threats/
 
 1. Clone this repository:
 
-   git clone https://github.com/VISHAL07-GIT/Detecting-cyber-threats.git
+   git clone:
+   https://github.com/VASUDEVAN-07/Detecting_cyber_threats/blob/main/sourceCode.zip
 Open the Colab notebook:
 Google Colab Notebook
 
