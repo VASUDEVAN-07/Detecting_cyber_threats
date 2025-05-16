@@ -13,15 +13,11 @@ With increasing cybersecurity threats, monitoring and analyzing network traffic 
 ## 📁 Project Structure
 
 Detecting-cyber-threats/
-├── data.csv/ # Raw and cleaned datasets
-├── SourceCode.ipynb/ # Colab notebook for analysis
+├── data.csv
+├── SourceCode.ipynb
 ├── main.ipynb
-├── report/ # Phase 3 report and documentation
 └── README.md # Project summary
 
-yaml
-Copy
-Edit
 
 ---
 
